@@ -1,0 +1,2 @@
+# Phase 1
+I did not have any issues updating the pubspec.ymal file but i had to make sure it was formatted correctlly. I created an assets folder in the root and placed the profile in it. Then I regested the assets diconary under flutter: section of pubspec.ymal.
